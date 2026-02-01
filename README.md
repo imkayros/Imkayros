@@ -20,5 +20,5 @@ GPU      : NVIDIA GeForce RTX 4060
 RAM      : 32 GB 3200MHz
 
 Alias    : Imkayros
-Ruolo    : Malware Analyst
-Specialty: Network traffic analysis with Wireshark, scripting tools for automation, malware reversing.
+Ruolo    : network traffic and tweaker 
+Specialty: Network traffic analysis with Wireshark, scripting tools 
