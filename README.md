@@ -19,6 +19,6 @@ CPU      : Intel Core i5 11400f
 GPU      : NVIDIA GeForce RTX 4060
 RAM      : 32 GB 3200MHz
 
-Alias    : Imkayros
+Alias    : Imkayyyy
 Ruolo    : network traffic and tweaker 
 Specialty: Network traffic analysis with Wireshark, scripting tools 
