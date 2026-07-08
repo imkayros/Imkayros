@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://plus.unsplash.com/premium_photo-1666672388644-2d99f3feb9f1?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8anBnfGVufDB8fDB8fHww" width="250" style="border-radius:50%;">
+  <img src="" width="250" style="border-radius:50%;">
 </p>
 <h1 align="center">Hi 👋, I'm Saikoo</h1>
 
