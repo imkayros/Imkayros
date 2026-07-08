@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1bccd215ddfea587867c18ad5381fd14" width="250" style="border-radius:50%;">
+  <img src="" width="250" style="border-radius:50%;">
 </p>
 <h1 align="center">Hi 👋, I'm Saikoo</h1>
 
