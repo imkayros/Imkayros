@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Saikoo</h1>
 
 <p align="center">
-Windows • Python • Wireshark • Linux
+Windows • Python • Wireshark • Linux tool
 </p>
 
 ---
