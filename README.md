@@ -35,7 +35,6 @@ Windows • Python • Wireshark • Linux
 ### 🚀 Featured Projects
 
 - 🔍 IP Analyzer
-- 🛡 Cybersecurity Tools
 - 🐍 Python Scripts
 
 ---
